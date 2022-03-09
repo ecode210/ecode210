@@ -8,10 +8,8 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Flutter+Developer;Expert+Graphics+Designer;Experienced+UI%2FUX+Designer;4%2B+years+of+coding+experience;Enthusiastic+about+new+technologies"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Flutter+Developer;Expert+Graphics+Designer;Experienced+UI%2FUX+Designer;4%2B+years+of+coding+experience;Enthusiastic+about+new+technologies"></a>
 </p>
-
-<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs"  width="550"/><br> 
 
 ## 🙋‍♂️ About Me
 
@@ -23,7 +21,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p>
+<p align="center">
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="Dart" src ="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
     <a href="#"><img alt="Photoshop" src ="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></a>
@@ -58,6 +56,8 @@
 <a href = "https://twitter.com/e__vibes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.wa.me/+2348138313912"><img src="https://img.icons8.com/ios-filled/45/26e07f/whatsapp--v1.png"/></a>
 </p>
+
+<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs"  width="550"/><br> 
 
 
 
