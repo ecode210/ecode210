@@ -54,7 +54,7 @@
 <a href = "https://www.linkedin.com/in/olawole-oyedele-931a14164/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.ecodeportfolio.xyz"><img src="https://img.icons8.com/glyph-neue/48/26e07f/domain.png"/></a>
 <a href = "https://twitter.com/e__vibes"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.wa.me/+2348138313912"><img src="https://img.icons8.com/ios-filled/45/26e07f/whatsapp--v1.png"/></a>
+<a href = "https://wa.me/+2348138313912"><img src="https://img.icons8.com/ios-filled/45/26e07f/whatsapp--v1.png"/></a>
 </p>
 
 <img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs"  width="550"/><br> 
