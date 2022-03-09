@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Flutter+Developer;Expert+Graphics+Designer;Experienced+UI%2FUX+Designer;4%2B+years+of+coding+experience;Enthusiastic+about+new+technologies"></a>
 </p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs"  width="550"/><br> 
+<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="CoDiNg RocKs"  width="550"/><br> 
 
 ## 🙋‍♂️ About Me
 
