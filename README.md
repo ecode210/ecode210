@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Flutter+Developer;Expert+Graphics+Designer;Experienced+UI%2FUX+Designer;4%2B+years+of+coding+experience;Enthusiastic+about+new+technologies"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Flutter+Developer;Experienced+Golang+Developer;Expert+UI%2FUX+Designer;4%2B+years+of+coding+experience"></a>
 </p>
 
 ## 💫 About Me:
