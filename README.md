@@ -3,15 +3,17 @@
 </h3>
 
 <h3 align="center">
-  Hi, I'm Oyedele Emmanuel Olawole
+  Hi, I'm Oyedele Olawole Emmanuel
 </h3>
 
 <p align="center">
-  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Professional+Flutter+Developer;Experienced+Golang+Developer;Expert+UI%2FUX+Designer;4%2B+years+of+coding+experience"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com?font=poppins&center=true&vCenter=true&lines=Senior+Mobile+Engineer;Experienced+Backend+Engineer;Expert+UI%2FUX+Designer;5%2B+years+of+development+experience"></a>
 </p>
 
 ## 💫 About Me:
-I’m a passionate Flutter💙 & Go💚 developer with 4 years of industrial experience designing and developing apps (mobile, web & desktop) in a test-driven environment. I’m well-versed in various programming languages, frameworks, and tools. In this rapidly evolving field, I’m always looking for new technologies to learn and methods to improve myself. I am also a highly skilled UI/UX and Graphics designer🎨.<br>🔭 I’m currently working on an Ed-tech app (frontend & backend)<br>🤝 I’m looking to collaborate on a startup project<br>🌱 I’m currently learning advanced flavors in Flutter<br>⚡ Fun fact: I love playing Elden Ring: Shadow of the Erdtree🎮
+Product-driven Senior Engineer with over five years of experience architecting and delivering full-stack solutions that bridge the gap between complex engineering and intuitive design. I specialize in owning the end-to-end development lifecycle, leveraging Go for high-performance backends and Flutter for polished, cross-platform frontends. My deep background in UI/UX is my unique advantage, enabling me to make critical product decisions that ensure technical scalability and world-class user experiences.
+
+I strategically integrate AI to build intelligent, data-driven systems that create tangible business value and enhance user engagement. I am passionate about leading technical strategy and transforming ambitious ideas into elegant, market-ready products that solve meaningful problems at scale.<br>🔭 I’m currently working on an Ed-tech app (frontend & backend)<br>🤝 I’m looking to collaborate on a startup project<br>🌱 I’m currently learning advanced flavors in Flutter<br>⚡ Fun fact: I love playing Elden Ring: Shadow of the Erdtree🎮
 
 ## 📱 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/call.me.wole) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olawole-oyedele-931a14164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ecode210) 
